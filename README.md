@@ -1,2 +1,3 @@
 # Conciser-Boilerplate
-Mi personal boilerplate to implement the Concise framework/
+Mi personal boilerplate to implement the Concise framework.
+<!-- Project in Production -->
