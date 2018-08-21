@@ -1,6 +1,13 @@
 /* Base*/
 body{min-height: 100vh;}
 
+/* Concise Modifications  */
+input[type="radio"],
+input[type="checkbox"],
+select{min-height: 0 !important;}
+
+select{padding: 0 !important;}
+
 /* Extends Concise's core */
 ._text-justify{text-align: justify;}
 ._ma{margin: auto;}
