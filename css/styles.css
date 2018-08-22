@@ -1,9 +1,9 @@
 /* Concise Modifications  */
+body *{font-family: 'Lato', sans-serif;}
+select{padding: 0 !important;}
 input[type="radio"],
 input[type="checkbox"],
 select{min-height: 0 !important;}
-
-select{padding: 0 !important;}
 
 /* Extends Concise's core */
 ._text-justify{text-align: justify;}
